@@ -1,0 +1,26 @@
+[
+    {
+        "studentData": [
+            {"name": "John Doe", "grades": {"math": 95, "science": "90"}},
+            {"name": "", "grades": {"history": 85, "art": 70.5}}
+        ],
+        "metadata": {"processed": false, "records": 2}
+    },
+    {
+        "extraActivities": [
+            {"name": "Chess Club", "members": [{"firstName": "Alice", "lastName": "Smith"}, {}]},
+            {"name": "Robotics", "members": []}
+        ],
+        "metadata": {"processed": true, "records": "two"}
+    },
+    {
+        "libraryRecords": {
+            "books": [
+                {"title": "Introduction to Algorithms", "available": "yes"},
+                {"title": "Clean Code", "available": null}
+            ],
+            "magazines": {},
+            "metadata": {"entries": 10}
+        }
+    }
+]

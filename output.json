@@ -1,0 +1,71 @@
+[
+  {
+    "studentData": [
+      {
+        "name": "John Doe",
+        "grades": {
+          "math": 95,
+          "science": 90
+        }
+      },
+      {
+        "name": "Unknown",
+        "grades": {
+          "history": 85,
+          "art": 70
+        }
+      }
+    ],
+    "metadata": {
+      "processed": true,
+      "records": 2
+    }
+  },
+  {
+    "extraActivities": [
+      {
+        "name": "Chess Club",
+        "members": [
+          {
+            "firstName": "Alice",
+            "lastName": "Smith"
+          },
+          {}
+        ]
+      },
+      {
+        "name": "Robotics",
+        "members": [
+          {
+            "firstname": "none",
+            "lastname": "none"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "processed": true,
+      "records": 2
+    }
+  },
+  {
+    "libraryRecords": {
+      "books": [
+        {
+          "title": "Introduction to Algorithms",
+          "available": true
+        },
+        {
+          "title": "Clean Code",
+          "available": null
+        }
+      ],
+      "magazines": {
+        "placeholder": "empty"
+      },
+      "metadata": {
+        "entries": 10
+      }
+    }
+  }
+]
